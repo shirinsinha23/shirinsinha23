@@ -14,7 +14,7 @@
 * 🎓 B.Tech CSE (2023–2027)
 * ☕ Strong foundation in Java and Object-Oriented Programming
 * 🔧 Experienced with Spring Boot, REST APIs, MySQL, and React
-* 💼 Software Intern at State Bank of India (SBI)
+* 💼 Summer Intern at State Bank of India (SBI)
 * 📚 Continuously improving Data Structures & Algorithms
 * 🎯 Seeking Internship and Software Development opportunities
 
@@ -53,7 +53,7 @@
 
 ## 💼 Experience
 
-### Software Intern | State Bank of India (SBI)
+### Summer Intern | State Bank of India (SBI)
 
 * Developed backend functionalities using Java.
 * Worked with RESTful APIs and database integration.
