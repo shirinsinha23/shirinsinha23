@@ -1,118 +1,161 @@
-# Hi 👋, I'm Shirin Sinha
+<h1 align="center">Hi 👋, I'm Shirin Sinha</h1>
+<h3 align="center">Java Full Stack Developer | Software Developer | B.Tech CSE Student</h3>
 
-### 💻 Java Full Stack Developer | B.Tech CSE Student
+<p align="center">
+Computer Science Undergraduate passionate about Java Backend Development, Full Stack Web Development, Android Application Development, and Software Engineering.
+</p>
 
-🎓 Computer Science Engineering Student at Sharda University
-🚀 Passionate about Backend Development, Web Applications, and Software Engineering
-🌱 Currently learning Spring Security, System Design, Microservices, and Cloud Technologies
-📍 Greater Noida, India
+<p align="center">
+<a href="https://www.linkedin.com/in/shirin-sinha-4999b3291/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:shirinsinha23@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/shirinsinha23">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
 
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech CSE (2023–2027)
-* ☕ Strong foundation in Java and Object-Oriented Programming
-* 🔧 Experienced with Spring Boot, REST APIs, MySQL, and React
-* 💼 Summer Intern at State Bank of India (SBI)
-* 📚 Continuously improving Data Structures & Algorithms
-* 🎯 Seeking Internship and Software Development opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-* Java
-* JavaScript
-* SQL
-* HTML5
-* CSS3
-
-### Frameworks & Technologies
-
-* Spring Boot
-* React.js
-* REST APIs
-* JWT Authentication
-
-### Databases
-
-* MySQl
-* Firebase
-
-### Tools & Platforms
-
-* Git & GitHub
-* Postman
-* Maven
-* VS Code
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shirinsinha23&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 💼 Experience
+## 👩‍💻 About Me
 
-### Summer Intern | State Bank of India (SBI)
+🎓 B.Tech Computer Science Engineering Student at **Sharda University (2023–2027)**
 
-* Developed backend functionalities using Java.
-* Worked with RESTful APIs and database integration.
-* Performed API testing using Postman.
-* Contributed to secure and scalable application development.
+💼 Summer Intern at **State Bank of India (SBI)**
 
----
+💻 Passionate about Java Backend Development, REST APIs, Android Applications, and Full Stack Web Development.
 
-## 🚀 Featured Projects
+🌱 Currently Learning
 
-### 🎯 Smart Attendance System
+- Spring Security
+- System Design
+- Microservices
+- Docker
+- AWS Cloud
 
-**Java | Spring Boot | React | MySQL**
+💡 Solved **300+ Data Structures & Algorithms** problems on LeetCode.
 
-* Student, Teacher, and Admin modules
-* JWT Authentication & Authorization
-* Attendance tracking and reporting
-* REST API integration
+🎯 Seeking Software Development Engineer (SDE) and Java Full Stack Developer opportunities.
 
-### 🎉 Smart Event Management System
-
-**Java | Android Studio | Firebase**
-
-* Event registration and management
-* QR-based attendance tracking
-* Real-time notifications
-* Firebase integration
+📍 Greater Noida, Uttar Pradesh, India
 
 ---
 
-## 📚 Currently Learning
+# 💻 Tech Stack
 
-* Spring Security
-* Microservices Architecture
-* System Design
-* Advanced DSA
-
----
-
-## 🏆 Achievements
-
-* Solved 200+ DSA questions on leetcode
-* Active learner in Java Backend Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,spring,java,git,github,mysql,postman,vscode" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-📧 Email: shirinsinha23@gmail.com
+## 📌 Smart Attendance System
 
-💼 LinkedIn: https://www.linkedin.com/in/shirin-sinha-4999b3291/
+**Tech Stack:** Java • Spring Boot • React • MySQL • JWT
 
-🐙 GitHub: https://github.com/shirinsinha23
+- Developed a full-stack attendance management system with Student, Teacher, and Admin roles.
+- Implemented OTP-based authentication using Spring Mail.
+- Secured REST APIs using JWT authentication with role-based access control.
+- Built dashboards for attendance management and report generation.
 
 ---
 
-## ⚡ Fun Fact
+## 📌 Smart Event Management Application
 
-> "Consistency and continuous learning are the keys to becoming a great software engineer."
+**Tech Stack:** Java • Android Studio • Firebase
 
-⭐ Thanks for visiting my profile!
+- Developed an Android application for event creation and management.
+- Implemented QR Code-based attendance tracking.
+- Integrated Firebase Authentication and Cloud Firestore.
+- Built an admin dashboard for attendance and feedback analytics.
 
+---
+
+## 📌 Resume Builder Web Application
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+- Developed a responsive Resume Builder.
+- Implemented dynamic resume generation.
+- Added PDF download functionality.
+- Designed a clean and user-friendly interface.
+
+---
+
+# 💼 Experience
+
+## Software Developer Intern
+
+### State Bank of India (SBI)
+
+**May 2025 – July 2025**
+
+- Developed and tested RESTful APIs for secure data exchange.
+- Implemented backend logic using Java.
+- Managed MySQL database operations.
+- Performed API testing using Postman.
+- Gained hands-on experience in enterprise backend development and documentation.
+
+---
+
+# 🎓 Education
+
+**Sharda University**
+
+Bachelor of Technology (Computer Science Engineering)
+
+**2023 – 2027**
+
+**CGPA:** 7.9/10
+
+---
+
+# 🏆 Certifications
+
+- Oracle Academy – Java Fundamentals
+- Generative AI Essentials – MPIT CoE & TCS Foundation
+- AI & Cybersecurity Awareness – MPIT CoE & TCS Foundation
+- NPTEL – Education for Sustainable Development (Elite – 97%)
+- GeeksforGeeks SU Training – Data Structures & Algorithms
+
+---
+
+# 💻 Coding Profiles
+
+- 🧩 Solved **300+ DSA Problems** on LeetCode
+- ☕ Passionate about Java and Problem Solving
+
+---
+
+# 🤝 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shirin-sinha-4999b3291/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shirinsinha23@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/shirinsinha23">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! <br>
+Let's connect and build impactful software together.
+</p>
