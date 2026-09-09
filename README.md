@@ -1,161 +1,192 @@
-<h1 align="center">Hi 👋, I'm Shirin Sinha</h1>
-<h3 align="center">Java Full Stack Developer | Software Developer | B.Tech CSE Student</h3>
+# Hi, I'm Shirin Sinha 👋
 
-<p align="center">
-Computer Science Undergraduate passionate about Java Backend Development, Full Stack Web Development, Android Application Development, and Software Engineering.
-</p>
+### Software Developer | Java | Spring Boot | React | MySQL
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shirin-sinha-4999b3291/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:shirinsinha23@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://github.com/shirinsinha23">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+I'm a Computer Science undergraduate passionate about software development,
+backend engineering, and problem-solving.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shirinsinha23&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+I enjoy building scalable web applications using Java, Spring Boot, React,
+MySQL, REST APIs, JWT authentication, and modern development tools.
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student at **Sharda University (2023–2027)**
-
-💼 Summer Intern at **State Bank of India (SBI)**
-
-💻 Passionate about Java Backend Development, REST APIs, Android Applications, and Full Stack Web Development.
-
-🌱 Currently Learning
-
-- Spring Security
-- System Design
-- Microservices
-- Docker
-- AWS Cloud
-
-💡 Solved **300+ Data Structures & Algorithms** problems on LeetCode.
-
-🎯 Seeking Software Development Engineer (SDE) and Java Full Stack Developer opportunities.
-
-📍 Greater Noida, Uttar Pradesh, India
+- 🎓 B.Tech Computer Science & Engineering student at **Sharda University**
+- 💻 Interested in **Java Full-Stack & Backend Development**
+- 🌱 Currently working on **Smart Campus Assistant**
+- 🔐 Interested in **Spring Security, JWT & secure application development**
+- 🧩 Practicing **Data Structures & Algorithms**
+- 🚀 Looking for opportunities to grow as a **Software Developer**
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,spring,java,git,github,mysql,postman,vscode" />
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
----
+### Frameworks & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react" />
+</p>
 
-# 🚀 Featured Projects
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-## 📌 Smart Attendance System
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+</p>
 
-**Tech Stack:** Java • Spring Boot • React • MySQL • JWT
+### Other Skills
 
-- Developed a full-stack attendance management system with Student, Teacher, and Admin roles.
-- Implemented OTP-based authentication using Spring Mail.
-- Secured REST APIs using JWT authentication with role-based access control.
-- Built dashboards for attendance management and report generation.
-
----
-
-## 📌 Smart Event Management Application
-
-**Tech Stack:** Java • Android Studio • Firebase
-
-- Developed an Android application for event creation and management.
-- Implemented QR Code-based attendance tracking.
-- Integrated Firebase Authentication and Cloud Firestore.
-- Built an admin dashboard for attendance and feedback analytics.
-
----
-
-## 📌 Resume Builder Web Application
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-- Developed a responsive Resume Builder.
-- Implemented dynamic resume generation.
-- Added PDF download functionality.
-- Designed a clean and user-friendly interface.
+- RESTful APIs
+- Spring Security
+- JWT Authentication
+- Spring Data JPA / Hibernate
+- Role-Based Access Control
+- Data Structures & Algorithms
+- API Testing with Postman
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## Software Developer Intern
+### 🏦 State Bank of India — Developer Intern
+**May 2026 – July 2026**
 
-### State Bank of India (SBI)
+- Developed a full-stack **Inventory Management Module** for the Department
+  of Consumer Affairs under the PSF Scheme.
+- Worked with **Java, Spring Boot, MySQL, and Thymeleaf**.
+- Developed Expenditure and Sales Proceeds modules with
+  **Maker-Checker-Approver workflow**.
+- Implemented **SMS OTP verification** and **Role-Based Access Control**
+  using Spring Security.
+- Designed **15+ database tables** using Spring Data JPA/Hibernate.
+- Integrated **SBI e-PAY payment gateway** for online payments.
 
+### 🏦 State Bank of India — Summer Intern
 **May 2025 – July 2025**
 
-- Developed and tested RESTful APIs for secure data exchange.
-- Implemented backend logic using Java.
-- Managed MySQL database operations.
-- Performed API testing using Postman.
-- Gained hands-on experience in enterprise backend development and documentation.
+- Developed and tested **RESTful APIs** for secure data exchange.
+- Implemented backend logic using **Java**.
+- Managed database operations using **MySQL**.
+- Performed API testing and validation using **Postman**.
+- Gained experience in enterprise-level backend development.
 
 ---
 
-# 🎓 Education
+## 🚀 Featured Projects
 
-**Sharda University**
+### 🏫 Smart Campus Assistant
+**Java | Spring Boot | React | MySQL | JWT**
 
-Bachelor of Technology (Computer Science Engineering)
+A full-stack campus management ecosystem designed to provide multiple
+services through a centralized platform.
 
-**2023 – 2027**
-
-**CGPA:** 7.9/10
-
----
-
-# 🏆 Certifications
-
-- Oracle Academy – Java Fundamentals
-- Generative AI Essentials – MPIT CoE & TCS Foundation
-- AI & Cybersecurity Awareness – MPIT CoE & TCS Foundation
-- NPTEL – Education for Sustainable Development (Elite – 97%)
-- GeeksforGeeks SU Training – Data Structures & Algorithms
-
----
-
-# 💻 Coding Profiles
-
-- 🧩 Solved **300+ DSA Problems** on LeetCode
-- ☕ Passionate about Java and Problem Solving
+**Features:**
+- 📊 Attendance Management
+- 🗓️ Timetable Management
+- 🔎 Lost & Found
+- 👥 User Management
+- 📚 Course Material
+- 🤖 AI-Powered Chatbot
+- 🔐 OTP Authentication
+- 🔑 JWT-based Role-Based Access Control
+- 👨‍🎓 Student, Faculty & Admin roles
+- 🌙 Dark / Light theme
+- 📱 Responsive React interface
 
 ---
 
-# 🤝 Connect with Me
+### 📊 Smart Attendance System
+**Java | Spring Boot | React | MySQL | JWT**
 
-<p align="left">
+A role-based attendance management system with secure authentication
+and real-time dashboards.
 
-<a href="https://www.linkedin.com/in/shirin-sinha-4999b3291/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+**Features:**
+- 🔐 Spring Security & JWT authentication
+- 📧 OTP-based authentication using Spring Mail
+- 👨‍💼 Multiple user roles
+- 📊 Role-specific dashboards
+- ⚡ Real-time data updates
+- 🔄 Axios interceptors for JWT handling
+- 🗄️ MySQL database
 
-<a href="mailto:shirinsinha23@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+---
 
-<a href="https://github.com/shirinsinha23">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+### 🧬 Skin Disease Classification
+**EfficientNetV2-S | Deep Learning | Machine Learning**
 
+Research project focused on multiclass skin lesion classification using
+the **EfficientNetV2-S** architecture.
+
+**Results:**
+- 🎯 Accuracy: **96.4%**
+- 📈 F1-Score: **95.9%**
+- 📊 AUC-ROC: **98.3%**
+
+Contributed to literature review, ablation study analysis, and research
+documentation.
+
+---
+
+## 📚 Data Structures & Algorithms
+
+Currently strengthening my problem-solving skills through:
+
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Sorting Algorithms
+- Problem Solving
+
+---
+
+## 🏆 Certifications
+
+- 🎓 **Education for Sustainable Development** — NPTEL, IIT Kharagpur
+  - Score: **97%**
+- 🔐 **AI and Cybersecurity Awareness** — TCS Foundation
+- 🤖 **Generative AI Essentials** — TCS Foundation
+- ☕ **Java Fundamentals** — Oracle
+
+---
+
+## 💻 Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! <br>
-Let's connect and build impactful software together.
+## 🤝 Connect With Me
+
+<p>
+  <a href="mailto:shirinsinha23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shirin-sinha-4999b3291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shirinsinha23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
