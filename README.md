@@ -15,7 +15,7 @@ MySQL, REST APIs, JWT authentication, and modern development tools.
 - 🎓 B.Tech Computer Science & Engineering student at **Sharda University**
 - 💻 Interested in **Java Full-Stack & Backend Development**
 - 🌱 Currently working on **Smart Campus Assistant**
-- 🔐 Interested in **Spring Security, JWT & secure application development**
+- 🔐 Interested in **Spring Security,Springboot, JWT & secure application development**
 - 🧩 Practicing **Data Structures & Algorithms**
 - 🚀 Looking for opportunities to grow as a **Software Developer**
 
