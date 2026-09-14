@@ -68,7 +68,7 @@ MySQL, REST APIs, JWT authentication, and modern development tools.
 - Implemented **SMS OTP verification** and **Role-Based Access Control**
   using Spring Security.
 - Designed **15+ database tables** using Spring Data JPA/Hibernate.
-- Integrated **SBI e-PAY payment gateway** for online payments.
+
 
 ### 🏦 State Bank of India — Summer Intern
 **May 2025 – July 2025**
