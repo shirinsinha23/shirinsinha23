@@ -121,22 +121,6 @@ and real-time dashboards.
 
 ---
 
-### 🧬 Skin Disease Classification
-**EfficientNetV2-S | Deep Learning | Machine Learning**
-
-Research project focused on multiclass skin lesion classification using
-the **EfficientNetV2-S** architecture.
-
-**Results:**
-- 🎯 Accuracy: **96.4%**
-- 📈 F1-Score: **95.9%**
-- 📊 AUC-ROC: **98.3%**
-
-Contributed to literature review, ablation study analysis, and research
-documentation.
-
----
-
 ## 📚 Data Structures & Algorithms
 
 Currently strengthening my problem-solving skills through:
@@ -147,6 +131,8 @@ Currently strengthening my problem-solving skills through:
 - Trees
 - Sorting Algorithms
 - Problem Solving
+- MySQL
+
 
 ---
 
